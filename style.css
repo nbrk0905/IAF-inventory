@@ -21,6 +21,7 @@ body {
   .navbar {
     overflow: hidden;
     background-color: #1C2331; 
+    position:fixed;  
   }
   
   .navbar a {
